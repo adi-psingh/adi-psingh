@@ -15,7 +15,7 @@
 ---
 
 ### 🛠️ Tech Stack:
-https://skillicons.dev/icons?i=js,react,nodejs,python,aws,mongodb&theme=dark
+
 * 💻 Languages: Java, Python, JavaScript
 * ⚙️ Backend: Node.js, Express.js, Django
 * 🎨 Frontend: React.js, HTML, CSS, Bootstrap
