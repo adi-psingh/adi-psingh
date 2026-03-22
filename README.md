@@ -15,7 +15,7 @@
 ---
 
 ### 🛠️ Tech Stack:
-
+https://skillicons.dev/icons?i=js,react,nodejs,python,aws,mongodb&theme=dark
 * 💻 Languages: Java, Python, JavaScript
 * ⚙️ Backend: Node.js, Express.js, Django
 * 🎨 Frontend: React.js, HTML, CSS, Bootstrap
@@ -38,18 +38,6 @@ Full-stack e-commerce platform with authentication, cart, and order flow
 #### 🔹 Facial Recognition Attendance System
 
 Built with Django + AWS Rekognition for real-time face detection & attendance tracking
-
----
-
-### 📊 GitHub Stats:
-
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adi-psingh\&show_icons=true)
-
----
-
-### 🔥 Streak:
-
-![GitHub Streak](https://streak-stats.demolab.com?user=adi-psingh)
 
 ---
 
