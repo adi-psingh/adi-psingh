@@ -31,7 +31,7 @@
 
 AI-powered healthcare platform for secure physician-patient interaction, chatbot-driven anamnesis & structured reports
 
-#### 🔹 Amazon Clone (MERN Stack)
+#### 🔹 Myntra Clone (MERN Stack)
 
 Full-stack e-commerce platform with authentication, cart, and order flow
 
